@@ -6,10 +6,10 @@ Started to code in high-school and have been doing so since, I resonate most wit
 🌍  I'm based in Modi'in, Israel </br>
 🖥️  See my portfolio at [Netlify](http://yonatans-portfolio.netlify.app/) </br>
 ✉️  You can contact me at [yonaratner@gmail.com](mailto:yonaratner@gmail.com) </br>
-🚀  I'm currently working on [open source contributions](http://a) </br>
-🧠  I'm learning something </br>
+🚀  I'm currently working on [open source contributions](https://github.com/microsoft/terminal) </br>
+🧠  I'm learning high level C++ [design](https://isocpp.org/wiki/faq/coding-standards) </br>
 🤝  I'm open to collaborating on anything </br>
-⚡  im spiderman </br>
+⚡  I like playing guitar </br>
 
 <a href="https://www.github.com/Teklar223" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Teklar223?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
