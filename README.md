@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yonatan Ratner
 ======================================================================================================================================
-Professional LAD (Language Agnostic Developer)
+Language Agnostic Developer
 ---------------------------
-Started to code in high-school and have been doing so since, I resonate most with Backend and low code (C/C++) roles that speak to the logical part of me, while stimulating the creative. </br> </br>
+Started to code in high-school and have been doing so since, focusing on improving my problem solving skills regardless of coding language, and have found that I resonate most with Backend and low code (C/C++) roles that speak to the logical part of me, while stimulating the creative. </br> </br>
 🌍  I'm based in Modi'in, Israel </br>
 🖥️  See my portfolio at [Netlify](http://yonatans-portfolio.netlify.app/) </br>
 ✉️  You can contact me at [yonaratner@gmail.com](mailto:yonaratner@gmail.com) </br>
 🚀  I'm currently working on [open source contributions](https://github.com/microsoft/terminal) </br>
 🧠  I'm learning high level C++ [design](https://isocpp.org/wiki/faq/coding-standards) </br>
 🤝  I'm open to collaborating on anything </br>
-⚡  I like playing guitar </br>
+⚡  I also enjoy playing guitar, and singing in the shower </br>
 
 <a href="https://www.github.com/Teklar223" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Teklar223?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
