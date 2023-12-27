@@ -1,6 +1,6 @@
 Hi, I'm Yonatan Ratner👋
 ======================================================================================================================================
-Language Agnostic Developer
+Junior Developer
 ---------------------------
 Started coding in high-school and have been doing so since, focusing on improving my problem solving skills regardless of coding language, and have found that I resonate most with Backend and low code (C/C++) roles that speak to the logical part of me, while stimulating the creative. </br> </br>
 🌍  I'm based in Modi'in, Israel </br>
