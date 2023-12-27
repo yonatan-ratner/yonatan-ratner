@@ -6,10 +6,8 @@ Started coding in high-school and have been doing so since, focusing on improvin
 🌍  I'm based in Modi'in, Israel </br>
 🖥️  See my portfolio at [Netlify](http://yonatans-portfolio.netlify.app/) </br>
 ✉️  You can contact me at [yonaratner@gmail.com](mailto:yonaratner@gmail.com) </br>
-🚀  I'm currently working on [open source contributions](https://github.com/microsoft/terminal) </br>
+🚀  I'm currently working on learning [Rust](https://doc.rust-lang.org/book/title-page.html) </br>
 🧠  I'm learning high level C++ [design](https://isocpp.org/wiki/faq/coding-standards) </br>
-🤝  I'm open to collaborating on anything </br>
-⚡  I enjoy playing guitar, singing in the shower, and working out at the gym </br>
 
 <a href="https://www.github.com/Teklar223" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Teklar223?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
