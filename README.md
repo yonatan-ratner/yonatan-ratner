@@ -4,9 +4,9 @@ Software Developer
 ---------------------------
 Started coding in high-school and have been doing so since, focusing on improving my problem solving skills regardless of coding language, and have found that I resonate most with Backend and low code (C/C++) roles that speak to the logical part of me, while stimulating the creative. </br> </br>
 🌍  I'm based in Modi'in, Israel </br>
-🖥️  See my portfolio at [Netlify](http://yonatans-portfolio.netlify.app/) </br>
+🖥️  See my portfolio at [Netlify](https://yonatan-ratner-portfolio.netlify.app/) </br>
 ✉️  You can contact me at [yonaratner@gmail.com](mailto:yonaratner@gmail.com) </br>
-🚀  I'm currently working on [Dark Times in Sherwood](https://github.com/HolyTrie/Dark-Times-In-Sherwood), A 2D video game made in Unity.
+🚀  I'm currently working on [Dark Times in Sherwood](https://github.com/HolyTrie/Dark-Times-In-Sherwood), A 2D video game made in Unity - currently being reworked as a 3D game in Unreal Engine 5.
 
 <a href="https://www.github.com/Teklar223" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Teklar223?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
