@@ -8,8 +8,8 @@ Started coding in high-school and have been doing so since, focusing on improvin
 ✉️  You can contact me at [yonaratner@gmail.com](mailto:yonaratner@gmail.com) </br>
 🚀  I'm currently working on [Dark Times in Sherwood](https://github.com/HolyTrie/Dark-Times-In-Sherwood), A 2D video game made in Unity - which were remaking as a 3D game in Unreal Engine 5.
 
-<a href="https://www.github.com/Teklar223" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Teklar223?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
+<a href="https://www.github.com/yonatan-ratner" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/yonatan-ratner?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -20,7 +20,7 @@ src="https://img.shields.io/github/followers/Teklar223?logo=github&style=for-the
 ### Socials
 
 <p align="left">
-  <a href="https://www.github.com/Teklar223" target="_blank" rel="noreferrer">
+  <a href="https://www.github.com/yonatan-ratner" target="_blank" rel="noreferrer">
     <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)"                    srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />  </picture> </a>
 <a href="https://www.linkedin.com/in/yonatan-ratner/" target="_blank" rel="noreferrer"> 
   <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
@@ -36,14 +36,14 @@ src="https://img.shields.io/github/followers/Teklar223?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Teklar223"><img src="https://github-readme-stats.vercel.app/api?username=Teklar223&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="Teklar223's GitHub stats" /></a>
+<a href="http://www.github.com/yonatan-ratner"><img src="https://github-readme-stats.vercel.app/api?username=yonatan-ratner&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="yonatan-ratner's GitHub stats" /></a>
 
-<a href="http://www.github.com/Teklar223"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Teklar223&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/yonatan-ratner"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yonatan-ratner&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Teklar223"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Teklar223&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/yonatan-ratner"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=yonatan-ratner&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Teklar223/Dark-Times-In-Sherwood" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Teklar223&repo=Dark-Times-In-Sherwood&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Teklar223/CPP-Course-Assignments" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Teklar223&repo=CPP-Course-Assignments&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/yonatan-ratner/Dark-Times-In-Sherwood" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yonatan-ratner&repo=Dark-Times-In-Sherwood&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/yonatan-ratner/CPP-Course-Assignments" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yonatan-ratner&repo=CPP-Course-Assignments&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/Teklar223/Shifter-backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Teklar223&repo=Shifter-backend&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Teklar223/Bakery-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Teklar223&repo=Bakery-App&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/yonatan-ratner/Shifter-backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yonatan-ratner&repo=Shifter-backend&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/yonatan-ratner/Bakery-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yonatan-ratner&repo=Bakery-App&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
