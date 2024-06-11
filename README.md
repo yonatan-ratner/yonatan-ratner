@@ -6,7 +6,7 @@ Started coding in high-school and have been doing so since, focusing on improvin
 🌍  I'm based in Modi'in, Israel </br>
 🖥️  See my portfolio at [Netlify](https://yonatan-ratner-portfolio.netlify.app/) </br>
 ✉️  You can contact me at [yonaratner@gmail.com](mailto:yonaratner@gmail.com) </br>
-🚀  I'm currently working on [Dark Times in Sherwood](https://github.com/HolyTrie/Dark-Times-In-Sherwood), A 2D video game made in Unity - which were remaking as a 3D game in Unreal Engine 5.
+🚀  I'm currently working on a companion app for [Slay the Spire - The board game](https://www.kickstarter.com/projects/contentiongames/slay-the-spire-the-board-game), which allows saving multiple games with different progress, utilizing computer vision to recognize and save player decks - the app is strucutred in a microservice architecture for learning and will be available as a mobile app as well as a web app.
 
 <a href="https://www.github.com/yonatan-ratner" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/yonatan-ratner?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
