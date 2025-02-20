@@ -4,9 +4,9 @@ Software Developer
 ---------------------------
 Started coding in high-school and have been doing so since, focusing on improving my problem solving skills regardless of coding language, and have found that I resonate most with roles that speak to the logical part of me, while stimulating the creative. </br> </br>
 🌍  I'm based in Modi'in, Israel </br>
-🖥️  See my portfolio at [Netlify](https://yonatan-ratner-portfolio.netlify.app/) </br>
+🖥️  See my portfolio at [Netlify](https://yonatan-ratner-portfolio.netlify.app/) (currently outdated!)</br>
 ✉️  You can contact me at [yonaratner@gmail.com](mailto:yonaratner@gmail.com) </br>
-🚀  I'm currently working on a companion app for [Slay the Spire - The board game](https://www.kickstarter.com/projects/contentiongames/slay-the-spire-the-board-game), which allows saving multiple games with different progress, utilizing computer vision to recognize and save player decks - the app is strucutred in a microservice architecture for learning and will be available as a mobile app as well as a web app.
+🚀  I'm currently working on a [ProtocolZ](https://github.com/yonatan-ratner/ProtocolZ), A collection of networking protocols implemented in the Zig programming language.
 
 <a href="https://www.github.com/yonatan-ratner" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/yonatan-ratner?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
